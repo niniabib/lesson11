@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
 let user = {
   firstname: 'giorgi',
   lastname: 'smith',
@@ -66,4 +63,3 @@ let users =  [
   {username:'test3', status: 'true'}
 ];
 console.log('true');
->>>>>>> Stashed changes
